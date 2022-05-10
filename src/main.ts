@@ -6,7 +6,7 @@ async function bootstrap() {
     app.enableCors({
         origin: [
             'http://localhost:4200',
-            'https://telling-sandy-conchoraptor.glitch.me',
+            'https://adorable-sprinkles-d02886.netlify.app',
         ],
         methods: 'GET',
     });
